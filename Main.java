@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
-import static lesson_2.OutputWorker.printlnToConsole;
-import static lesson_2.OutputWorker.printToConsole;
-import static lesson_2.InputWorker.readDoubleFromConsole;
+import static OutputWorker.printlnToConsole;
+import static OutputWorker.printToConsole;
+import static InputWorker.readDoubleFromConsole;
 
 public class Main 
 {
