@@ -37,7 +37,7 @@ public class Main
             return;
         }
         
-        if( lesson_2.Triangle.isATriangle(sideA, sideB, sideC) )
+        if( Triangle.isATriangle(sideA, sideB, sideC) )
         {
             printlnToConsole("", "Congratulations!", "Triangle with given sides indeed can exist!");
         }
