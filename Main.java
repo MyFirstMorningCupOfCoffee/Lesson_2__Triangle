@@ -1,5 +1,3 @@
-package lesson_2;
-
 import java.util.InputMismatchException;
 import static lesson_2.OutputWorker.printlnToConsole;
 import static lesson_2.OutputWorker.printToConsole;
