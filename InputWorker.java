@@ -1,5 +1,3 @@
-package lesson_2;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.Locale;
