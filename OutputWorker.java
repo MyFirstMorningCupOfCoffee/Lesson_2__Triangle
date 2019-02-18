@@ -1,5 +1,3 @@
-package lesson_2;
-
 public class OutputWorker 
 {
     public static void printlnToConsole(String... text)
